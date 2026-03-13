@@ -1,0 +1,56 @@
+Identify Info
+
+ Model Name,  TS128GSSD450K
+ Serial Num,  F939850567
+ Firmware,  R0906A
+ Support Interface,  SATA-3
+ Current Interface,  SATA-3
+
+
+SMART Info
+
+ [0x01],  Read Error Rate,  0
+ [0x05],  Reallocated Sectors Count,  0
+ [0x09],  Power-On Hours,  4444
+ [0x0C],  Power Cycle Count,  324
+ [0x94],  SLC Total Erase Count,  1080342
+ [0x95],  SLC Maximum Erase Count,  14423
+ [0x96],  SLC Minimum Erase Count,  14271
+ [0x97],  SLC Average Erase Count,  14404
+ [0x9F],  DRAM one bit error count,  0
+ [0xA0],  Uncorrectable sectors count when read/write,  0
+ [0xA1],  Number of Valid Spare Blocks,  89
+ [0xA3],  Number of Initial Invalid Blocks,  25
+ [0xA4],  TLC Total Erase Count,  343990
+ [0xA5],  TLC Maximum Erase Count,  294
+ [0xA6],  TLC Minimum Erase Count,  192
+ [0xA7],  TLC Average Erase Count,  250
+ [0xA8],  Max Erase Count of Spec,  1000
+ [0xA9],  Remain Life (percentage),  75
+ [0xB1],  Total Wear Level Count,  1525
+ [0xB5],  Total Program Fail Count,  0
+ [0xB6],  Total Erase Fail Count,  0
+ [0xC0],  Power-Off Retract Count,  276
+ [0xC2],  Temperature,  50
+ [0xC3],  Total Correctable Count,  0
+ [0xC4],  Reallocation Event Count,  0
+ [0xC7],  Ultra DMA CRC Error Count,  10
+ [0xE8],  Available Reserved Space,  100
+ [0xF1],  Total LBA Written (each write unit=32MB),  713255
+ [0xF2],  Total LBA Read (each read unit=32MB),  1391902
+ [0xF5],  Flash Write Sector Count,  687980
+
+
+System Info
+
+ User,  AXIOMTEKSYSTEMS\hayden.fortunata
+ CPU,  11th Gen Intel(R) Core(TM) i7-1165G7 @ 2.80GHz
+ MotherBoard,  LENOVO - 20W6007FUS
+ OS,  Microsoft Windows 11 Pro 
+ OS Version,  10.0.22631
+ OS Base,  x64
+ Graphic Card,  NVIDIA T500
+ DRAM,  39.73 GB
+ DRAM Left,  19.55 GB
+ IP,  192.168.168.162
+ UUID,  687E30CC-3196-11B2-A85C-FA93B5341F57
