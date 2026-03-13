@@ -7,6 +7,5 @@ class Filenames:
         self.dir = dir
     def create_dir_variables(self):
         self.transcend_dir = self.dir + "Data\\Raw\\Transcend-data\\"
-        self.smartctl_dir = self.dir + "Data\\Raw\\Smartctl\\"
         self.chassis_ssd_xlsx = self.dir + "Data\\Raw\\Locus-Chassis-SSD.xlsx"
         self.processed_csv = self.dir + "Data\\Processed\\collected_data.csv"

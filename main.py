@@ -5,6 +5,7 @@ from pathlib import Path
 from src.create_file_names import Filenames
 import src.get_serial_numbers as gsn
 import src.get_transcend_data as gtn
+import src.plotting_data as pld
 
 if __name__ == "__main__":
     print("Collecting data....")
@@ -19,6 +20,10 @@ if __name__ == "__main__":
 
     ## collect the imformation from transcend data
     gtn.get_transcend_data_main(file)
+
+    ## now create our graphs
+
+    pld.plotting_data_main(file)
 
     
     
